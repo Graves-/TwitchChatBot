@@ -1,0 +1,14 @@
+{
+  "name": "twitch_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.2.0"
+  }
+}
